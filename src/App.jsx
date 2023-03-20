@@ -29,6 +29,7 @@ function App() {
 
         <div className="relative z-0">
           <Contact />
+          {/* <DirectContact /> */}
           <StarsCanvas />
         </div>
       </div>

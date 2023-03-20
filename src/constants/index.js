@@ -216,7 +216,7 @@ const projects = [
   {
     name: "Happy Share",
     description:
-      "Web-based platform that allows users to search, create, and manage posts by users.",
+      "Web-based Social Media platform that allows users to search, create, and manage posts by users.",
     tags: [
       {
         name: "react",

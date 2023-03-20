@@ -64,6 +64,13 @@ const Navbar = () => {
             </li>
           </ul>
         ))}
+        <a
+          href="https://nextjs-blog-app-sigma-five.vercel.app/"
+          target="_blank"
+          className="flex items-center"
+        >
+          Blog
+        </a>
       </div>
       <img
         src={menu}
